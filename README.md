@@ -9,7 +9,7 @@ This project demonstrates a simple automation test using Selenium WebDriver to d
 - It opens a pdf in a new tab
 - download the pdf and download verify the path
 
-##Challenges
+## Challenges
 
 - cannot use 𝐂𝐡𝐫𝐨𝐦𝐞𝐎𝐩𝐭𝐢𝐨𝐧𝐬,𝐅𝐢𝐫𝐞𝐟𝐨𝐱𝐎𝐩𝐭𝐢𝐨𝐧𝐬 and 𝐊𝐞𝐲𝐛𝐨𝐚𝐫𝐝 𝐬𝐡𝐨𝐫𝐭𝐜𝐮𝐭𝐬 - 𝐊𝐞𝐲𝐄𝐯𝐞𝐧𝐭𝐬
 
